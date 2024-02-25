@@ -1,0 +1,71 @@
+[
+    {
+      "image": "https://i.ibb.co/JvKhtXv/nike-website-design-v1688712941.png" ,
+      "name": "Product A",
+      "brand": "NIKE",
+      "type": "Electronics",
+      "price": 49.99,
+      "short_description": "High-quality product A for your needs.",
+      "rating": 4.5,
+      "add_button": "Add to Cart"
+      },
+      
+     
+      {
+        "image":"https://i.ibb.co/n7rKMWB/red-and-black-adidas-logo-wallpapers-47929-562341-2596321.jpg",
+        "name": "Product B",
+        "brand": "Addidas",
+        "type": "Fashion",
+        "price": 79.99,
+        "short_description": "Stylish and comfortable product B.",
+        "rating": 5.0,
+        "add_button": "Add to Cart"
+      },
+    
+      {
+      "image":"https://i.ibb.co/SKPmSNb/images.png",
+      "name": "Product C",
+      "brand": "Gucci",
+      "type": "Home & Kitchen",
+      "price": 29.99,
+      "short_description": "Versatile and durable product C.",
+      "rating": 4.0,
+      "add_button": "Add to Cart"
+      },
+      
+      
+      {
+        "image":"https://i.ibb.co/CBwgWPS/download.jpg",
+        "name": "Product D",
+        "brand": "Zara",
+        "type": "Sports & Outdoors",
+        "price": 99.99,
+        "short_description": "Ideal for outdoor activities - product D.",
+        "rating": 4.8,
+        "add_button": "Add to Cart"
+      },
+      
+      {
+      "image":"https://i.ibb.co/MC3yLX3/HM-logo.jpg",
+      "name": "Product E",
+      "brand": "H&M",
+      "type": "Beauty",
+      "price": 39.99,
+      "short_description": "Enhance your beauty with product E.",
+      "rating": 4.2,
+      "add_button": "Add to Cart"
+      },
+      
+      
+      {
+        "image":  "https://i.ibb.co/nPvrWG3/Levis-Logo.png",
+        "name": "Product F",
+        "brand": "Levi's",
+        "type": "Toys & Games",
+        "price": 59.99,
+        "short_description": "Fun and educational - product F.",
+        "rating": 4.7,
+        "add_button": "Add to Cart"
+      }
+      
+]
